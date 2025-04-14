@@ -20,7 +20,7 @@ The project consists of the following components:
   - **BankFocus** – for standardized financial and banking data.
   - **Manual Collection** – for missing or complementary data from financial statements.
 - **Model**: An **unbalanced panel regression with fixed effects** is applied to control for time-invariant heterogeneity among banks.
-- **Software**: Python with libraries like `pandas`, `statsmodels`, and `streamlit`.
+- **Software**: Python with libraries like `numpy`, `pandas`, `statsmodels`,`seaborn`, `matplotlib` and `streamlit`.
 
 ## 📊 Results Summary
 
