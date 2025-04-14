@@ -11,7 +11,7 @@ The project consists of the following components:
 
 1. **`fintech.py`** – Performs the data analysis and econometric modeling.
 2. **`stream.py`** – Builds an interactive web app using [Streamlit](https://streamlit.io/) to visualize the results.
-3. **Excel dataset (`.xlsx`)** – Contains raw and processed data on Italian banks, sourced from BankFocus and supplemented with manually collected financial statement data.
+3. **`fintech_listed.xlsx`** – Contains raw and processed data on Italian banks, sourced from BankFocus and supplemented with manually collected financial statement data.
 
 ## 🧠 Methodology
 
